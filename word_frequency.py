@@ -28,3 +28,5 @@ for w in sentence_list: #This starts a loop that goes through each word w in the
 
 for i in range(len(words)): #This loop goes through all the indexes of the words list.
     print(words[i] + ":", counts[i])
+
+# your code is good and it functions as expected, but you were not supposed to remove the helper function provided.
